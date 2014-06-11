@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the f_add_mobile feature.
+ */
+
+include_once 'f_add_mobile.features.inc';
